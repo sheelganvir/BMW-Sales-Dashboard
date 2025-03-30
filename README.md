@@ -2,6 +2,10 @@
 
 An interactive and visually engaging **BMW Sales Dashboard** built using **Power BI**, designed to analyze and present BMW sales performance across different years, countries, channels, and car models. This dashboard helps uncover business insights and supports data-driven decision-making.
 
+---
+Here is the link to the interactive dashboard : [Live](https://app.powerbi.com/links/PRX44lTeAV?ctid=75470a9d-0e26-46e8-a2a5-88123ffd59ae&pbi_source=linkShare&bookmarkGuid=3a372da3-fbc5-4672-870d-486a2ff2d3fe)
+
+---
 
 ![Screenshot 2025-03-30 143644](https://github.com/user-attachments/assets/d38dbff1-1f39-4f02-a02f-af8e2d9ae473)
 
